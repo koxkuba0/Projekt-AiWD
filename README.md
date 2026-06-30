@@ -13,4 +13,4 @@ Zawód: Wyraźne różnice między osobami ryzukującymi takimi jak przedsiębio
 
 Stan cywilny: osoby które nie są w małżeństwie mają większą chęc do otwarcia lokaty  
 
-Strategia: Powinniśmy bardziej skupiać nasz marketing i wydatki wokół niego na studentach i emerytach, ponieważ to oni mają najwięszke skłonności do otwarcia lokaty oraz może przygotować proste tłumaczenia czy programy dla osób słabiej wykształconych i mogących nie do końca zrozumieć jak działają lokaty
+Strategia: Powinniśmy bardziej skupiać nasz marketing i wydatki wokół niego na studentach i emerytach, ponieważ to oni mają najwięszke skłonności do otwarcia lokaty oraz może przygotować proste tłumaczenia czy programy dla osób słabiej wykształconych i mogących nie do końca zrozumieć jak działają lokaty 
