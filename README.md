@@ -1,8 +1,10 @@
 # Projekt-AiWD
 Projekt z kursu Python  
 
-Na podstawie przeprowadzonej analizy danych zidentyfikowano cztery główne czynniki wpływające na decyzję o założeniu lokaty:  
+Na podstawie przeprowadzonej analizy danych zidentyfikowano pięć głównych czynników wpływających na decyzję o założeniu lokaty:  
 
+Długość rozmowy: Większe zaangażowanie w rozmowe z potencjalnym klientem skutkuje większą szansą na otwarcie przez niego lokaty
+  
 Wiek: Najwyższą skuteczność osiągamy wśród studentow  oraz emerytów. Pierwsza grupa szuka bezpiecznego pomnażania oszczędności, druga dba o kapitał.  
 
 Wyksztalcenie: im wyzsze jest wykształcenie tym większa jest skłonność do lokat co może sugerowac wyższa świadomość o finansach  
